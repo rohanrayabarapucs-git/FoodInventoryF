@@ -1,2 +1,2 @@
 Food Inventory Management
-Stock: 150
+Stock: 200
